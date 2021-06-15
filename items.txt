@@ -1,0 +1,30 @@
+Primary Weapons
+DONE Greatsword - 3 Attack Damage.  2 Points.  Press Q to deal double damage on the next attack.
+DONE Repeater Crossbow - 2 AD, 5 AS.  3 Points.  15 charges, shooting uses one charge.  Press Q to reload charges after 2 seconds.
+DONE Mace - 3 AD.  2 Points (may need 3).  Press Q to slow enemies within 3 blocks.
+DONE Warhammer - 3 AD.  2 Points.  Press Q to make the next attack crush (remove chestplate) the targets armor for 3 seconds.
+MODEL Greatbow - 0.5 * armor AD.  2 Points.  Long draw time.  Attacks deal half of the targets armor stat as damage.
+DONE Longbow - 5 AD.  2 Points.  No ability.
+DONE Shadow Blade - 4 AD. 0.5 Attacks per second.  3 Points.  Press Q to dash, and increase attacks per second by 0.5 for 2 seconds.
+DONE Shurikans - 3 AD.  2 Points.  Press Q to throw Shurikans that deal 4 damage to those hit.  15 cooldown.
+DONE Claws - 3 AD.  2 Points.  Press Q to slash around the player dealing 5 damage to all enemies within 1 block.
+
+Secondary Weapons
+CONCEPT Health Potion - 0 AD.  1 Point.  Press Q to restore 5 health. Cooldown: 10 seconds.
+CONCEPT Grapling Hook - 2 AD.  1 Point.  Press Q to launch a hook.  Reactivating Q while still having line of sight with the hook will pull u towords it. Cooldown: 15 seconds.
+CONCEPT Spotter Drone - 1 Point.  Press Q to launch a drone.  This drone flies a circle with a radius of 4 blocks above the player for 30 seconds.
+ - If any enemies come within a 5 block radius cylinder of the drone, they glow.
+CONCEPT Daggers - 2 AD.  1 Point.  Press Q to throw dagger, 3 charges.  Those who do not hit can be picked up.
+
+Armor
+CONCEPT Plate Armor - Full set of netherite armor, 80% movement speed.
+CONCEPT Split Armor - Full set of netherite armor without a helmet, 90% movement speed.
+CONCEPT Chain Mail - Full set of chainmail armor
+CONCEPT Leather Armor - Full set of leather armor, 110% movement speed.
+CONCEPT Camouflage Armor - Full set of leather armor without a helmet, 110% movement speed, player remains invisible for until within 10 blocks of any enemy
+
+Devlog 1 todo list
+TODO: Finish primary weapons
+ - Custom model support
+TODO: Build a test arena
+TODO: Implement toggleable arena mode with basic matchmaking and a test mode that fills queue with test zombies

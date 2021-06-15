@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="WarcrossPlugin:jar">
+    <output-path>$PROJECT_DIR$/../../../MCServer/plugins</output-path>
+    <root id="archive" name="WarcrossPlugin.jar">
+      <element id="module-output" name="WarcrossPlugin" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../spigot-1.16.5.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

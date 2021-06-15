@@ -1,0 +1,8 @@
+name: WarcrossPlugin
+main: daylightnebula.warcrossmcplugin.Main
+version: 1.0
+api-version: 1.16
+commands:
+  getitems:
+    description: Open Inventory with all the playable items in it
+    usage: /getitems
